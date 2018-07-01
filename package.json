@@ -1,0 +1,18 @@
+{
+  "name": "google-messages",
+  "version": "1.0.0",
+  "description": "Simple desktop interface for google messages.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Shawn Baugh II",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^2.0.3"
+  },
+  "dependencies": {
+    "electron-packager": "^12.1.0"
+  }
+}
